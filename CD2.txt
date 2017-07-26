@@ -1,0 +1,38 @@
+cd 2
+
+01 A Marcha do Rio Kwai
+
+02 Cisne Branco
+
+03 Dobrado Batista de Melo
+
+04 Fibra de Heróis
+
+05 Hino a Bandeira
+
+06 Hino a Caxias
+
+07 Hino a Guararapes cantado
+
+08 Hino a Guararapes tocado
+
+09 Hino da Independência
+
+10 Hino Nacional cantado
+
+11 Hino Nacional tocado
+
+12 Hino da Proclamação da República
+
+13 Incorporação da Bandeira
+
+14 Desfiles - Batista de Melo - Ord Marche
+
+15 Desfiles - Sd Amaz - Ord Marche
+
+16 O Guarani - Voz do Brasil - Introdução
+
+17 Oração do Guerreiro de Selva
+
+18 Dobrado Quatro dias de viagem
+

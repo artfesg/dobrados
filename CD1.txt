@@ -1,0 +1,52 @@
+cd 1
+
+01 Canção Sd Amazônia tocada
+
+02 Aquarela do Brasil
+
+03 Bandeira Nacional - Entrada Banda tocando
+
+04 Bandeira Nacional - Intro p entrada
+
+05 Tema Filme Platoon
+
+06 Canção 1ª Bda Inf Selva
+
+07 Canção da Artilharia
+
+08 Canção da Cavalaria
+
+09 Canção da Engenharia
+
+10 Canção da Infantaria cantada
+
+11 Canção da Infantaria tocada
+
+12 Canção da Intendência
+
+13 Canção da Saúde
+
+14 Canção das Comunicações
+
+15 Canção de Maringá
+
+16 Canção do Aviador
+
+17 Canção do Exército cantada
+
+18 Canção do Exército tocada
+
+19 Canção do Expedicionário cantada
+
+20 Canção do Expedicionário tocada
+
+21 Canção do Material Bélico
+
+22 Canção do Eterno herói (pqdt) cantada
+
+23 Canção Fibra de Heróis cantada
+
+24 Canção Guerreiro de Selva cantada
+
+25 Canção Sd Amazônia cantada
+
